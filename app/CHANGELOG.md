@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.7.0](https://github.com/fredrikburmester/streamystats/compare/streamystat-v1.6.0...streamystat-v1.7.0) (2025-05-02)
+
+
+### Features
+
+* add size prop to Poster component and implement fallback for missing images ([d6ce62a](https://github.com/fredrikburmester/streamystats/commit/d6ce62ae97d0e38e6349603f0434bb38fe4df3a6))
+* enhance ActiveSessions component with playback method badge and update session mapping for transcoding info ([0ce49fa](https://github.com/fredrikburmester/streamystats/commit/0ce49fa3aa33f41f92d7b32f6e71d410d61758f2))
+* pwa ([f59f6b5](https://github.com/fredrikburmester/streamystats/commit/f59f6b526693deae1328969500ba01e11fa10a9c))
+* user leaderboard on dashboard ([9b4f4cb](https://github.com/fredrikburmester/streamystats/commit/9b4f4cbd993f9908e3b215049116e84a3ee45777)), closes [#52](https://github.com/fredrikburmester/streamystats/issues/52)
+
+
+### Bug Fixes
+
+* add parent and index numbers to session mapping ([9440f5c](https://github.com/fredrikburmester/streamystats/commit/9440f5cd093e936cf412ed93eddc723d71fa5856))
+
 ## [1.6.0](https://github.com/fredrikburmester/streamystats/compare/streamystat-v1.5.0...streamystat-v1.6.0) (2025-04-26)
 
 
